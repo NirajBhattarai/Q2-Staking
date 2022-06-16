@@ -1,4 +1,4 @@
-# Q2 Vesting Contract
+# Q2 Staking Contract
 
 ## About
 
